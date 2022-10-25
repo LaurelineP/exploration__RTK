@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 3fc749e949c18496e42e6e318b52dc46e94936b9 Laureline <> 1666205617 +0200	clone: from https://github.com/xjamundx/redux-shopping-cart.git
+3fc749e949c18496e42e6e318b52dc46e94936b9 81d6e9f1f6a80d3514d979e1aa3d0cff2b9a17d3 Laureline <> 1666211688 +0200	commit: Init project course
+81d6e9f1f6a80d3514d979e1aa3d0cff2b9a17d3 9f0aa486681674157d882ae11f8cc2280781fe7f Laureline <> 1666213228 +0200	commit: Redux and Redux toolkit
+9f0aa486681674157d882ae11f8cc2280781fe7f d131ef68a3448417e2dd64f4e53f9ea3030d5f12 Laureline <> 1666215917 +0200	commit: Slices - creating slices (with their reducers) to merge them on the store reducer
+d131ef68a3448417e2dd64f4e53f9ea3030d5f12 ec80b0c246a0306f34380c8708f7dc74720554c9 Laureline <> 1666217815 +0200	commit: Enable the app redux store typed aware of the app store
+ec80b0c246a0306f34380c8708f7dc74720554c9 08a6842a1d585c4a25e2c177f42d30ddf9279d2c Laureline <> 1666219041 +0200	commit: Consuming products from the redux store ( redux.store ) using the ( data types aware ) hook
+08a6842a1d585c4a25e2c177f42d30ddf9279d2c 2943363a8e639f063734f07edb85b3c31d8707e1 Laureline <> 1666221919 +0200	commit: Products `receiveProducts` reducer method added and consumed by component
+2943363a8e639f063734f07edb85b3c31d8707e1 122e5142a2964bbd62ad872c7b49e99bfec779b1 Laureline <> 1666223285 +0200	commit: Product and cart `addToCart` reducer method added and consumed by component
+122e5142a2964bbd62ad872c7b49e99bfec779b1 2057af6e23beb3e71e9cf0efe2cde4e04fcbef56 Laureline <> 1666699863 +0200	commit: last updates: update component to have dynamical items in cart page
+2057af6e23beb3e71e9cf0efe2cde4e04fcbef56 ae52782ad3aed253d6239c5629ffa71a777f347e Laureline <> 1666699867 +0200	commit (amend): last updates:
+ae52782ad3aed253d6239c5629ffa71a777f347e 6e04fad68184f407abb3f533732b5cb7f25a9b16 Laureline <> 1666700228 +0200	commit (amend): last updates:
+6e04fad68184f407abb3f533732b5cb7f25a9b16 6e04fad68184f407abb3f533732b5cb7f25a9b16 Laureline <> 1666700629 +0200	Branch: renamed refs/heads/egghead to refs/heads/master
+6e04fad68184f407abb3f533732b5cb7f25a9b16 6e04fad68184f407abb3f533732b5cb7f25a9b16 Laureline <> 1666700819 +0200	Branch: renamed refs/heads/master to refs/heads/master

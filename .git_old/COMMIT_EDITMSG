@@ -1,0 +1,27 @@
+last updates:
+- update component to have dynamical items in cart page by
+	- receiving cart.items from props
+	- calculating count from function selector with 2 states to compute the final count
+- update component by deleting an item
+	- slice action created `removeFromCart` taking an id and deleting the item
+	- in component used `useAppDispatch` + action creator `removeFromCart`
+	( which will automatically update every component suscribed to items and cart count )
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Tue Oct 25 14:11:03 2022 +0200
+#
+# On branch egghead
+# Your branch is ahead of 'origin/egghead' by 8 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   README.md
+#	modified:   src/app/store.ts
+#	modified:   src/features/cart/Cart.tsx
+#	modified:   src/features/cart/CartLink.tsx
+#	modified:   src/features/cart/cartSlice.ts
+#	modified:   src/features/products/Products.tsx
+#	modified:   src/features/products/productsSlice.ts
+#
